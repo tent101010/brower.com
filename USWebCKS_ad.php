@@ -4,12 +4,12 @@
 ?>
         <div id="rightCol">
             <div id="title" class="topMargin110">
-                <h1>Advertising</h1>
+                <h1>Corporate Communications</h1>
                 <!-- <h1 class="pageTitle adv"><span>Advertising</span></h1> -->
             </div><br class="clearLt">
             <div id="copy" class="col2of3">
                 <h2>USWeb/CKS</h2>
-                <div class="nextSample"><a class="next" href="dejaviewsad1.php"><span>Next Sample</span></a></div>
+                <div class="nextSample"><a class="next" href="trimbleNavigation_CC.php"><span>Next Sample</span></a></div>
                 <br class="clearLt">
                 <p>When US Web merged with long-time advertising and marketing firm CKS, the new company, USWeb/CKS, released an ad campaign to establish its corporate identity and recruit employees. I worked with an in-house designer to come up with the tag "Can you move at digital speed?" and wrote a series of ads targeted at CIOs looking for strategic business advice to focus their corporate web efforts.</p>
             </div>
