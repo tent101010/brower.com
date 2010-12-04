@@ -11,7 +11,7 @@
                 <h2>Redbook</h2>
                 <div class="nextSample"><a class="next" href="Glamour01.php"><span>Next Sample</span></a></div>
                 <br class="clearLt">
-                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+                <p>In October 2006, Kit Deslauriers accomplished the seemingly impossible: she climbed Mt. Everest and then skied down the mountain. Not only was she the first woman to descend on skis, she was the first American and one of only a handful that had even tried. I interviewed Kit in May of 2007 for this "as told to" piece that ran in the October 2007 issue of Redbook.</p>
             </div>
             <div class="col3of3">
                 <a class="zoomMe" id="redbook01"><img alt="See image enlarged" height="94" id="enlarge" src="images/zoom_in_91x94.png" style="display:none;" width="91" /></a>
