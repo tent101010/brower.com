@@ -14,10 +14,10 @@
                             '<li class="on mainTopItem">Projects</li>',
                             '<li class="mainWithSubNav">Projects</li>',
                             '<li class="on mainWithSubNav">Projects</li>',
-                            '<li class="mainTopItem"><a href="ads.php">Projects</a></li>',
-                            '<li class="on mainTopItem"><a href="ads.php">Projects</a></li>',
-                            '<li class="mainWithSubNav"><a href="ads.php">Projects</a></li>',
-                            '<li class="on mainWithSubNav"><a href="ads.php">Projects</a></li>',
+                            '<li class="mainTopItem"><a href="webSites.php">Projects</a></li>',
+                            '<li class="on mainTopItem"><a href="webSites.php">Projects</a></li>',
+                            '<li class="mainWithSubNav"><a href="webSites.php">Projects</a></li>',
+                            '<li class="on mainWithSubNav"><a href="webSites.php">Projects</a></li>',
                             '<li>Advertising</li>',
                             '<li class="on">Advertising</li>',
                             '<li><a href="ads.php">Advertising</a></li>',
@@ -67,19 +67,19 @@
         if ( $pageId === 'home' ) {
             echo( "$projects[4]\n$clients[2]\n$about[2]\n$contact[2]" );
         } else if ( $pageId === 'ads' ) {
-            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[9]\n$divider\n$projects[14]\n$divider\n$projects[18]\n$divider\n$projects[22]\n$divider\n$projects[26]\n$divider\n$projects[30]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
+            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[14]\n$divider\n$projects[18]\n$divider\n$projects[22]\n$divider\n$projects[26]\n$divider\n$projects[30]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
         } else if ( $pageId === 'webSites' ) {
-            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[10]\n$divider\n$projects[13]\n$divider\n$projects[18]\n$divider\n$projects[22]\n$divider\n$projects[26]\n$divider\n$projects[30]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
+            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[13]\n$divider\n$projects[18]\n$divider\n$projects[22]\n$divider\n$projects[26]\n$divider\n$projects[30]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
         } else if ( $pageId === 'whitePapers' ) {
-            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[10]\n$divider\n$projects[14]\n$divider\n$projects[17]\n$divider\n$projects[22]\n$divider\n$projects[26]\n$divider\n$projects[30]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
+            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[14]\n$divider\n$projects[17]\n$divider\n$projects[22]\n$divider\n$projects[26]\n$divider\n$projects[30]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
         } else if ( $pageId === 'prodLit' ) {
-            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[10]\n$divider\n$projects[14]\n$divider\n$projects[18]\n$divider\n$projects[21]\n$divider\n$projects[26]\n$divider\n$projects[30]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
+            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[14]\n$divider\n$projects[18]\n$divider\n$projects[21]\n$divider\n$projects[26]\n$divider\n$projects[30]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
         } else if ( $pageId === 'corpComm' ) {
-            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[10]\n$divider\n$projects[14]\n$divider\n$projects[18]\n$divider\n$projects[22]\n$divider\n$projects[25]\n$divider\n$projects[30]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
+            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[14]\n$divider\n$projects[18]\n$divider\n$projects[22]\n$divider\n$projects[25]\n$divider\n$projects[30]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
         } else if ( $pageId === 'ia' ) {
-            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[10]\n$divider\n$projects[14]\n$divider\n$projects[18]\n$divider\n$projects[22]\n$divider\n$projects[26]\n$divider\n$projects[29]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
+            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[14]\n$divider\n$projects[18]\n$divider\n$projects[22]\n$divider\n$projects[26]\n$divider\n$projects[29]\n$divider\n$projects[34]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
         } else if ( $pageId === 'other' ) {
-            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[10]\n$divider\n$projects[14]\n$divider\n$projects[18]\n$divider\n$projects[22]\n$divider\n$projects[26]\n$divider\n$projects[30]\n$divider\n$projects[33]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
+            echo ( "$projects[3]\n<li>\n<ul id=\"subNav\">\n$projects[14]\n$divider\n$projects[18]\n$divider\n$projects[22]\n$divider\n$projects[26]\n$divider\n$projects[30]\n$divider\n$projects[33]\n</ul>\n</li>\n$clients[2]\n$about[2]\n$contact[2]" );
         } else if ( $pageId === 'clients' ) {
             echo ( "$projects[4]\n$clients[1]\n$about[2]\n$contact[2]" );
         } else if ( $pageId === 'about' ) {

@@ -114,21 +114,27 @@ html > body #frame { margin:0 auto; }
   text-decoration:none;
 }
 
-#nav a:hover, #nav li.on, #nav li.on a { 
+#nav a:hover { 
   color:#c00;
   text-decoration:none;
 }
 
-#nav ul#subNav li { padding:3px 0px 3px 15px; }
+#nav ul#subNav li {
+    margin-left:5px;
+    padding:3px 0px 3px 8px;
+    width:152px;
+}
 
-#nav ul#subNav li.lastSubNavItem { padding:3px 0px 6px 15px; }
+#nav ul#subNav li.on { background:#eee; }
+
+#nav ul#subNav li.lastSubNavItem { padding-bottom:6px; }
 
 #nav ul#subNav div.divider { 
 	border-bottom:solid 1px #ddd;
-	height:1px;
-	line-height:1px;
-    margin-left:13px;
-	width:80%;
+	height:0px;
+	line-height:0px;
+    margin-left:5px;
+	width:160px;
 }
 
 #rightCol {
