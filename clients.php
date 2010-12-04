@@ -27,12 +27,13 @@
                     <li>Object Health</li>
                     <li>Red Herring Communications</li>
                     <li>Ross Valley School District (San Anselmo, CA)</li>
+                    <li>Campaign for Measure A, Support Ross Valley Schools</li>
                     <li><a href="sevinRosenFunds_CC.php">Sevin Rosen Funds</a></li> 
-                    <li><a href="">Spot-On.com</a></li> 
-                    <li><a href="webSites.php">Sun Microsystems</a></li>
+                    <li><a href="pinPoint.php">Spot-On.com</a></li> 
+                    <li><a href="sunMicrosystems.php">Sun Microsystems</a></li>
                     <li><a href="tiogaEnergy.php">Tioga Energy</a></li>
-                    <li><a href="trimble.html">Trimble</a></li>
-                    <li><a href="uswebcks.html">USWeb/CKS</a></li>
+                    <li><a href="trimbleWP.php">Trimble</a></li>
+                    <li><a href="USWebCKS_CC.php">USWeb/CKS</a></li>
                 </ul>
             </div><br class="clearLt" />
         </div><br class="clearLt" />
