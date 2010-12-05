@@ -29,7 +29,7 @@
                     <li>Ross Valley School District (San Anselmo, CA)</li>
                     <li>Campaign for Measure A, Support Ross Valley Schools</li>
                     <li><a href="sevinRosenFunds_CC.php">Sevin Rosen Funds</a></li> 
-                    <li><a href="pinPoint.php">Spot-On.com</a></li> 
+                    <li><a href="pinpoint.php">Spot-On.com</a></li> 
                     <li><a href="sunMicrosystems.php">Sun Microsystems</a></li>
                     <li><a href="tiogaEnergy.php">Tioga Energy</a></li>
                     <li><a href="trimbleWP.php">Trimble</a></li>
