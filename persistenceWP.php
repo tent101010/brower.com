@@ -9,7 +9,10 @@
             </div><br class="clearLt" />
             <div id="copy" class="col2of3">
                 <h2>Persistence</h2>
-                <div class="nextSample"><a class="next noLink" href=""><span></span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="nextWP.php"><span>Previous Sample</span></a>
+                    <a class="next nextNoLink" href=""><span></span></a>
+                </div>
                 <br class="clearLt">
                 <p>In the early 90s, corporate database developers had a lot of trouble linking legacy information in relational databases to new applications built with object-oriented technology. Getting the object and relational worlds to connect and share data was the goal of Persistence. I worked with the company's marketing and engineering groups to create a customer guide that explained the differences between object and relational technology, the problems of trying to tie them together and the solution that Persistence offered.</p>
             </div>

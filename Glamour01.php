@@ -9,7 +9,10 @@
             </div><br class="clearLt" />
             <div id="copy" class="col2of3">
                 <h2>Glamour</h2>
-                <div class="nextSample"><a class="next noLink" href=""><span></span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="Redbook01.php"><span>Previous Link</span></a>
+                    <a class="next nextNoLink" href=""><span></span></a>
+                </div>
                 <br class="clearLt">
                 <p>I always admired my mother's tennis game. She played two or three times a week until she was in her mid-70s. When the opportunity came up to memorialize her energetic pursuit of competition, I jumped at it. This short piece was published in a special Mother's Day issue of Glamour in 2004.</p>
             </div>

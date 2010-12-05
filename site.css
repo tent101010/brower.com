@@ -158,16 +158,16 @@ html > body #frame { margin:0 auto; }
 }
 
 
-.nextSample { 
+.navArrows { 
     padding-right:10px;
     text-align:right;
 }
 
-.nextSample span { 
+a.next span, a.prev span { 
     display:none;
 }
 
-.nextSample a {
+a.next {
     background:url('images/nextOff.gif') no-repeat 0px 0px;
     display:inline-block;
     height:13px; 
@@ -175,19 +175,45 @@ html > body #frame { margin:0 auto; }
     width:16px;
 }
 
-.nextSample a.noLink {
+a.prev {
+    background:url('images/prevOff.gif') no-repeat 0px 0px;
+    display:inline-block;
+    height:13px; 
+    text-decoration:none;
+    width:16px;
+}
+
+a.nextNoLink {
     background:url('images/nextOff.gif') no-repeat 0px -500px;
+    cursor:default;
+    width:16px;
+}
+
+a.prevNoLink {
+    background:url('images/prevOff.gif') no-repeat 0px -500px;
     cursor:default;
     width:0px;
 }
 
-.nextSample a:hover {
+a.next:hover {
     background:url('images/nextOver.gif') no-repeat 0px 0px;
     text-decoration:none;
 }
 
-.nextSample a.noLink:hover {
+a.prev:hover {
+    background:url('images/prevOver.gif') no-repeat 0px 0px;
+    text-decoration:none;
+}
+
+a.nextNoLink:hover {
     background:url('images/nextOver.gif') no-repeat 0px -500px;
+    cursor:default;
+    text-decoration:none;
+    width:0px;
+}
+
+a.prevNoLink:hover {
+    background:url('images/prevOver.gif') no-repeat 0px -500px;
     cursor:default;
     text-decoration:none;
     width:0px;

@@ -9,7 +9,10 @@
             </div><br class="clearLt" />
             <div id="copy" class="col2of3">
                 <h2>NeXT</h2>
-                <div class="nextSample"><a class="next" href="persistenceWP.php"><span>Next Sample</span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="trimbleWP.php"><span>Previous Sample</span></a>
+                    <a class="next" href="persistenceWP.php"><span>Next Sample</span></a>
+                </div>
                 <br class="clearLt">
                 <p>Today we know NeXT as the company Steve Jobs sold to Apple, but in the early 1990's NeXT was making headlines as a pioneer of object-oriented programming. Today, object-oriented programming has become the standard—not surprised given the Internet's need for developing modular applications quickly. But back in 1990, after the introduction of object-oriented NeXTStep in 1990, NeXT had a lot of educating to do. I originally wrote this FAQ about NeXTStep for a press and analyst audience. It was quickly picked up by the company's salesforce to help explain NeXT's technical advantages to potential clients.</p>
             </div>

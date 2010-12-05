@@ -9,7 +9,10 @@
             </div><br class="clearLt" />
             <div id="copy" class="col2of3">
                 <h2>Bitpass</h2>
-                <div class="nextSample"><a class="next" href="applePL.php"><span>Next Sample</span></a></div>
+                <div class="navArrows">
+                    <a class="prev prevNoLink" href=""><span></span></a>
+                    <a class="next" href="applePL.php"><span>Next Sample</span></a>
+                </div>
                 <br class="clearLt">
                 <p>This short-lived start-up was developing an online transaction system to help media companies monetize their assets and support microtransactions. I helped the company nail down marketing messages for the target audience of media company executives and wrote copy for the web site and product brochures. This product brochure describes the enterprise edition of the company's iMedia Commerce Engine.</p>
             </div>

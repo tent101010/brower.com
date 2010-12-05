@@ -9,7 +9,10 @@
             </div><br class="clearLt" />
             <div id="copy" class="col2of3">
                 <h2>Trimble</h2>
-                <div class="nextSample"><a class="next" href="nextWP.php"><span>Next Sample</span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="kazeonWP.php"><span>Previous Sample</span></a>
+                    <a class="next" href="nextWP.php"><span>Next Sample</span></a>
+                </div>
                 <br class="clearLt">
                 <p>Trimble popularized handheld GPS navigation devices for recreational sailors in the 1980s. The company also developed and manufactured GPS systems for commercial navigation, aviation, surveying, emergency response, vehicle fleet tracking and more. I worked with Trimble's corporate marketing department to develop and write corporate marketing pieces to educate investors, customers and partners about GPS. This white paper was part of that effort.</p>
             </div>

@@ -9,7 +9,10 @@
             </div><br class="clearLt">
             <div id="copy" class="col2of3">
                 <h2>USWeb/CKS</h2>
-                <div class="nextSample"><a class="next" href="trimbleNavigation_CC.php"><span>Next Sample</span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="USWebCKS_CC.php"><span>Previous Sample</span></a>
+                    <a class="next" href="trimbleNavigation_CC.php"><span>Next Sample</span></a>
+                </div>
                 <br class="clearLt">
                 <p>When US Web merged with long-time advertising and marketing firm CKS, the new company, USWeb/CKS, released an ad campaign to establish its corporate identity and recruit employees. I worked with an in-house designer to come up with the tag "Can you move at digital speed?" and wrote a series of ads targeted at CIOs looking for strategic business advice to focus their corporate web efforts.</p>
             </div>

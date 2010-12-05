@@ -9,7 +9,10 @@
             </div><br class="clearLt">
             <div id="copy" class="col2of3">
                 <h2>Little Yellow Bicycle</h2>
-                <div class="nextSample"><a class="next" href="floraFaunaHomeopathy.php"><span>Next Sample</span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="tiogaEnergy.php"><span>Previous Sample</span></a>
+                    <a class="next" href="floraFaunaHomeopathy.php"><span>Next Sample</span></a>
+                </div>
                 <br class="clearLt">
                 <p>In 2008, The C-Thru Ruler Company expanded its paper crafting and scrapbooking operations with a new brand, called Little Yellow Bicycle, sold exclusively to small- and medium-sized paper crafting and scrapbooking stores. To support this new venture, I worked with designers and producers to create a web site that expresses the exuberance and fun of the LYB brand.</p>
             </div>

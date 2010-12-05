@@ -9,7 +9,10 @@
             </div><br class="clearLt">
             <div id="copy" class="col2of3">
                 <h2>Tioga Energy: Web Site 2.0</h2>
-                <div class="nextSample"><a class="next" href="littleYellowBicycle.php"><span>Next Sample</span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="sunMicrosystems.php"><span>Previous Sample</span></a>
+                    <a class="next" href="littleYellowBicycle.php"><span>Next Sample</span></a>
+                </div>
                 <br class="clearLt">
                 <p>This renewable energy company wanted to move its web site from start-up mode to customer selling mode. Working with a team of designers, programmers and producers, I helped create a new information architecture and rewrote all the copy for the completely new version of tiogaenergy.com. Copy included both in-depth content as well as headlines and marketing copy for the introductory flash on the home page.</p>
             </div>

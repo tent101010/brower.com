@@ -9,7 +9,10 @@
             </div><br class="clearLt" />
             <div id="copy" class="col2of3">
                 <h2>Sevin Rosen Funds</h2>
-                <div class="nextSample"><a class="next noLink" href=""><span></span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="trimbleNavigation_CC.php"><span>Previous Link</span></a>
+                    <a class="next nextNoLink" href=""><span></span></a>
+                </div>
                 <br class="clearLt">
                 <p>I worked with this venture capital firm's communications department to ghost write columns for several of the firm's partners. These articles were part of a larger marketing campaign to reestablish a brand identity among young entrepreneurs during the Internet boom. Several of the pieces were published in web and print media and are still on the firm's web site today.</p>
             </div>

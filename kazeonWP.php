@@ -9,7 +9,10 @@
             </div><br class="clearLt" />
             <div id="copy" class="col2of3">
                 <h2>Kazeon</h2>
-                <div class="nextSample"><a class="next" href="tiogaEnergyWP.php"><span>Next Sample</span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="tiogaEnergyWP.php"><span>Previous Sample</span></a>
+                    <a class="next" href="trimbleWP.php"><span>Next Sample</span></a>
+                </div>
                 <br class="clearLt">
                 <p>High-tech start-up Kazeon needed a white paper to explain both the company's technology and the market need for that technology. I wrote the white paper over a period of three months, working closely with a design firm and Kazeon's director of marketing to clarify and strengthen the company's messages and positioning.</p>
             </div>

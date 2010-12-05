@@ -9,7 +9,10 @@
             </div><br class="clearLt">
             <div id="copy" class="col2of3">
                 <h2>Sun Microsystems</h2>
-                <div class="nextSample"><a class="next" href="tiogaEnergy.php"><span>Next Sample</span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="pinpoint.php"><span>Previous Sample</span></a>
+                    <a class="next" href="tiogaEnergy.php"><span>Next Sample</span></a>
+                </div>
                 <br class="clearLt">
                 <p>Sun has a series of customer experience centers around the globe called Sun Solution Centers. I was hired to help revamp the web site content about these centers with more consistent and compelling messages that communicated all the benefits and services of these centers. I worked with a team of designers and Sun managers to create a new site for Sun Solution Centers, writing all the copy and drafting ideas for diagrams and illustrations to explain the Centers’ process and services.</p>
             </div>

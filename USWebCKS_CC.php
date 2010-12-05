@@ -9,7 +9,10 @@
             </div><br class="clearLt" />
             <div id="copy" class="col2of3">
                 <h2>USWeb/CKS</h2>
-                <div class="nextSample"><a class="next" href="USWebCKS_ad.php"><span>Next Sample</span></a></div>
+                <div class="navArrows">
+                    <a class="prev prevNoLink" href=""><span></span></a>
+                    <a class="next" href="USWebCKS_ad.php"><span>Next Sample</span></a>
+                </div>
                 <br class="clearLt">
                 <p>When US Web merged with long-time advertising and marketing firm CKS, the newly formed company needed corporate and HR marketing tools to establish a corporate identity and recruit employees. I worked with an in-house designer to come up with the tag "Can you move at digital speed?" and the wrote several the brochures and other marketing pieces to support the branding needs of the new company.</p>
             </div>

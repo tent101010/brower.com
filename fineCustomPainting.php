@@ -9,7 +9,10 @@
             </div><br class="clearLt">
             <div id="copy" class="col2of3">
                 <h2>Fine Custom Painting</h2>
-                <div class="nextSample"><a class="next noLink" href=".php"><span></span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="floraFaunaHomeopathy.php"><span></span></a>
+                    <a class="next nextNoLink" href=""><span></span></a>
+                </div>
                 <br class="clearLt">
                 <p>I worked with this high-end exterior painting and restoration company to create a site that showcases the beauty of its work and explains its methods. We took our cues from architecture firms that put clear, crisp beauty shots first and let the rest of a site play a secondary role. In addition to creating the information architecture and all copy, I managed the site's design and production working with a designer, photographer and programmer.</p>
             </div>

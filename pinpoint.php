@@ -9,7 +9,10 @@
             </div><br class="clearLt">
             <div id="copy" class="col2of3">
                 <h2>Spot-On Pinpoint Persuasion</h2>
-                <div class="nextSample"><a class="next" href="sunMicrosystems.php"><span>Next Sample</span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="art-c.php"><span>Previous Sample</span></a>
+                    <a class="next" href="sunMicrosystems.php"><span>Next Sample</span></a>
+                </div>
                 <br class="clearLt">
                 <p>After the 2008 election, online media has played an increasingly important role in political campaigning. Spot-On Pinpoint Persuasion, which specializes in local online media, offers campaign managers a one-stop-shop for online buys helping campaigns reach voters with targeted messages. I worked with the Spot-On's founder update the copy and tone of the Pinpoint with positioning and marketing messages.</p>
             </div>

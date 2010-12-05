@@ -9,7 +9,10 @@
             </div><br class="clearLt" />
             <div id="copy" class="col2of3">
                 <h2>Apple</h2>
-                <div class="nextSample"><a class="next noLink" href=""><span></span></a></div>
+                <div class="navArrows">
+                    <a class="prev" href="bitpass.php"><span>Previous Sample</span></a>
+                    <a class="next nextNoLink" href=""><span></span></a>
+                </div>
                 <br class="clearLt">
                 <p>When it comes to product launches, Apple does it right. Everything from advertising to in-store posters to T-shirts is carefully coordinated for simultaneous release on introduction day. This consistency and clarity is particularly important with press materials. In addition to press releases and product "beauty shots," Apple creates an in-depth reviewer's guide for most new product launches. I wrote two of these guides, bringing together content from marketing communications, hardware engineering, application software, system software, utilities, design and sales and training to provide a single resource for product reviewers.</p>
             </div>
