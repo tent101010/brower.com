@@ -11,7 +11,10 @@
                 <h2>Redbook</h2>
                 <div class="navArrows">
                     <a class="prev prevNoLink" href=""><span></span></a>
+                    <a class="next nextNoLink" href=""><span></span></a>
+                    <!--
                     <a class="next" href="Glamour01.php"><span>Next Sample</span></a>
+                    -->
                 </div>
                 <br class="clearLt">
                 <p>In October 2006, Kit Deslauriers accomplished the seemingly impossible: she climbed Mt. Everest and then skied down the mountain. Not only was she the first woman to descend on skis, she was the first American and one of only a handful that had even tried. I interviewed Kit in May of 2007 for this "as told to" piece that ran in the October 2007 issue of Redbook.</p>
